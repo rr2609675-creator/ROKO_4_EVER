@@ -1,18 +1,25 @@
-# ROKO 4 EVER
 # ANTI CHEAT SYSTEM V1
 
-## Detection
-- Emulator Detection
-- Hack Detection
+## Purpose
+Prevent unfair gameplay and fake tournament results.
+
+## Detection System
+- Abnormal Score Detection
+- Impossible Kill Detection
+- Rapid Rank Increase Detection
 - Multiple Account Detection
 
-## Monitoring
-- Suspicious Activity
-- Match Review
-- User Reports
+## Security Layer
+- Device Verification
+- IP Monitoring
+- Account Verification
 
-## Actions
+## Action System
 - Warning
-- Temporary Ban
+- Temporary Suspension
 - Permanent Ban
 
+## Logs
+- Cheat Report
+- Admin Review
+- Action History
