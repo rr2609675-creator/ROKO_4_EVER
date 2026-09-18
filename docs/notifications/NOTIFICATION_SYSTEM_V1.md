@@ -1,23 +1,11 @@
-# ROKO 4 EVER - Notification System
+# Notification System V1
 
-## User Notifications
+## Types
+- Tournament Alert
+- Prize Alert
+- Wallet Alert
+- Admin Notice
 
-- Tournament Created
-- Tournament Starting Soon
-- Match Room ID Available
-- Tournament Result Published
-- Prize Credited
-- Withdrawal Approved
-
-## Admin Notifications
-
-- New User Registered
-- Tournament Full
-- Withdrawal Request
-- Fraud Report Received
-
-## Delivery Methods
-
-- In-App Notification
+## Delivery
 - Push Notification
-- Email Notification
+- In-App Notification
