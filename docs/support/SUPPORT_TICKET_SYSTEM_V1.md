@@ -1,19 +1,20 @@
-# Support Ticket System
+# ROKO 4 EVER
+# SUPPORT TICKET SYSTEM V1
 
 ## Ticket Types
-
 - Payment Issue
-- Tournament Issue
-- Account Issue
-- Ban Appeal
+- Match Issue
 - Prize Issue
+- Account Issue
 
-## Flow
+## Status
+- Open
+- In Review
+- Resolved
+- Closed
 
-User Creates Ticket
-↓
-Admin Reviews
-↓
-Issue Resolved
-↓
-Ticket Closed
+## Features
+- Ticket ID
+- Chat History
+- Admin Response
+
